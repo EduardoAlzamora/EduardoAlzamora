@@ -1,4 +1,7 @@
 ## Hi there 👋
+## Im currently learning calculus and coding skills.
+## I work full time at night and study part time.
+# I am looking to collaborate into smothing cool everyone can use
 
 <!--
 **EduardoAlzamora/EduardoAlzamora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
